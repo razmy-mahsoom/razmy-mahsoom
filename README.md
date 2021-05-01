@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @razmy-mahsoom
 - 👀 I’m interested in programmin
-- 🌱 I’m currently learning Flutter Sping boot
+- 🌱 I’m currently learning new technologies like Flutter, Sping boot
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me => razmy.developer@hotelshippo.com or razmy_mahsoom@hotmail.com
 
