@@ -7,7 +7,7 @@ Innovative Software engineer with a variety of professional experience in comput
 ![Logo](https://avatars.githubusercontent.com/u/7481881?v=4)
 
     
-## Features
+## 
 
 - 👋 Hi, I’m @razmy-mahsoom
 - 👀 I’m interested in programmin
@@ -17,7 +17,6 @@ Innovative Software engineer with a variety of professional experience in comput
 
 
   
-
 <!---
 razmy-mahsoom/razmy-mahsoom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
